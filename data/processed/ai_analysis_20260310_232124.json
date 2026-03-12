@@ -1,0 +1,252 @@
+{
+  "fetch_time": "20260310_232124",
+  "hot_rank": [
+    {
+      "video_id": "sample_005",
+      "item_id": "sample_005",
+      "title": "搞笑日常 #搞笑 生活中的小确幸",
+      "cover_url": "nan",
+      "video_url": "https://tiktok.com/@bbb/video/5",
+      "duration": 25,
+      "play_count": 210000,
+      "like_count": 18000,
+      "comment_count": 890,
+      "share_count": 0,
+      "tags": "搞笑",
+      "region": "",
+      "country_code": "",
+      "publish_time": null,
+      "fetch_time": "2026-03-10T23:21:24.375629",
+      "source": "csv",
+      "fetch_date": "2026-03-10",
+      "engagement_rate": 0.089952,
+      "rank": 1
+    },
+    {
+      "video_id": "sample_001",
+      "item_id": "sample_001",
+      "title": "产品开箱测评 #开箱 #测评 超值好物分享",
+      "cover_url": "nan",
+      "video_url": "https://tiktok.com/@xxx/video/1",
+      "duration": 45,
+      "play_count": 125000,
+      "like_count": 8500,
+      "comment_count": 320,
+      "share_count": 0,
+      "tags": "开箱|测评",
+      "region": "",
+      "country_code": "",
+      "publish_time": null,
+      "fetch_time": "2026-03-10T23:21:24.375304",
+      "source": "csv",
+      "fetch_date": "2026-03-10",
+      "engagement_rate": 0.07056,
+      "rank": 2
+    },
+    {
+      "video_id": "sample_002",
+      "item_id": "sample_002",
+      "title": "热门BGM舞蹈挑战 #舞蹈 跟风挑战",
+      "cover_url": "nan",
+      "video_url": "https://tiktok.com/@yyy/video/2",
+      "duration": 30,
+      "play_count": 89000,
+      "like_count": 6200,
+      "comment_count": 180,
+      "share_count": 0,
+      "tags": "舞蹈",
+      "region": "",
+      "country_code": "",
+      "publish_time": null,
+      "fetch_time": "2026-03-10T23:21:24.375406",
+      "source": "csv",
+      "fetch_date": "2026-03-10",
+      "engagement_rate": 0.071685,
+      "rank": 3
+    },
+    {
+      "video_id": "sample_004",
+      "item_id": "sample_004",
+      "title": "美食教程简单易学 #美食 #教程",
+      "cover_url": "nan",
+      "video_url": "https://tiktok.com/@aaa/video/4",
+      "duration": 90,
+      "play_count": 78000,
+      "like_count": 5200,
+      "comment_count": 210,
+      "share_count": 0,
+      "tags": "美食|教程",
+      "region": "",
+      "country_code": "",
+      "publish_time": null,
+      "fetch_time": "2026-03-10T23:21:24.375552",
+      "source": "csv",
+      "fetch_date": "2026-03-10",
+      "engagement_rate": 0.069359,
+      "rank": 4
+    },
+    {
+      "video_id": "sample_003",
+      "item_id": "sample_003",
+      "title": "职场干货分享 #职场 升职技巧",
+      "cover_url": "nan",
+      "video_url": "https://tiktok.com/@zzz/video/3",
+      "duration": 60,
+      "play_count": 56000,
+      "like_count": 4100,
+      "comment_count": 95,
+      "share_count": 0,
+      "tags": "职场",
+      "region": "",
+      "country_code": "",
+      "publish_time": null,
+      "fetch_time": "2026-03-10T23:21:24.375482",
+      "source": "csv",
+      "fetch_date": "2026-03-10",
+      "engagement_rate": 0.074911,
+      "rank": 5
+    }
+  ],
+  "deconstructions": [
+    {
+      "content_type": "短视频",
+      "hook": "搞笑日常 #搞笑 生活中的小确幸",
+      "structure": "约25秒",
+      "duration_tips": "时长25s，适合短视频平台",
+      "tag_strategy": [
+        "搞笑"
+      ],
+      "success_factors": [
+        "高播放",
+        "高互动",
+        "标签精准"
+      ],
+      "raw_analysis": "（未配置 LLM，返回规则分析）",
+      "video_id": "sample_005",
+      "title": "搞笑日常 #搞笑 生活中的小确幸"
+    },
+    {
+      "content_type": "短视频",
+      "hook": "产品开箱测评 #开箱 #测评 超值好物分享",
+      "structure": "约45秒",
+      "duration_tips": "时长45s，适合短视频平台",
+      "tag_strategy": [
+        "开箱",
+        "测评"
+      ],
+      "success_factors": [
+        "高播放",
+        "高互动",
+        "标签精准"
+      ],
+      "raw_analysis": "（未配置 LLM，返回规则分析）",
+      "video_id": "sample_001",
+      "title": "产品开箱测评 #开箱 #测评 超值好物分享"
+    },
+    {
+      "content_type": "短视频",
+      "hook": "热门BGM舞蹈挑战 #舞蹈 跟风挑战",
+      "structure": "约30秒",
+      "duration_tips": "时长30s，适合短视频平台",
+      "tag_strategy": [
+        "舞蹈"
+      ],
+      "success_factors": [
+        "高播放",
+        "高互动",
+        "标签精准"
+      ],
+      "raw_analysis": "（未配置 LLM，返回规则分析）",
+      "video_id": "sample_002",
+      "title": "热门BGM舞蹈挑战 #舞蹈 跟风挑战"
+    },
+    {
+      "content_type": "短视频",
+      "hook": "美食教程简单易学 #美食 #教程",
+      "structure": "约90秒",
+      "duration_tips": "时长90s，适合短视频平台",
+      "tag_strategy": [
+        "美食",
+        "教程"
+      ],
+      "success_factors": [
+        "高播放",
+        "高互动",
+        "标签精准"
+      ],
+      "raw_analysis": "（未配置 LLM，返回规则分析）",
+      "video_id": "sample_004",
+      "title": "美食教程简单易学 #美食 #教程"
+    },
+    {
+      "content_type": "短视频",
+      "hook": "职场干货分享 #职场 升职技巧",
+      "structure": "约60秒",
+      "duration_tips": "时长60s，适合短视频平台",
+      "tag_strategy": [
+        "职场"
+      ],
+      "success_factors": [
+        "高播放",
+        "高互动",
+        "标签精准"
+      ],
+      "raw_analysis": "（未配置 LLM，返回规则分析）",
+      "video_id": "sample_003",
+      "title": "职场干货分享 #职场 升职技巧"
+    }
+  ],
+  "viral_model": {
+    "common_patterns": [
+      "短平快",
+      "强钩子",
+      "标签密集"
+    ],
+    "optimal_duration": "15-60秒",
+    "top_tags": [
+      "热点",
+      "教程",
+      "干货"
+    ],
+    "script_formula": "开场钩子+核心内容+行动号召",
+    "recommendations": [
+      "控制时长",
+      "用好标签",
+      "提升互动"
+    ],
+    "raw_analysis": "（未配置 LLM，返回规则分析）"
+  },
+  "ai_ideas": [
+    {
+      "title": "营销干货分享",
+      "hook": "3个技巧",
+      "tags": [
+        "营销",
+        "干货"
+      ],
+      "duration": 45,
+      "angle": "实用向"
+    },
+    {
+      "title": "营销避坑指南",
+      "hook": "千万别这样",
+      "tags": [
+        "营销",
+        "避坑"
+      ],
+      "duration": 60,
+      "angle": "警示向"
+    },
+    {
+      "title": "营销案例拆解",
+      "hook": "真实案例",
+      "tags": [
+        "营销",
+        "案例"
+      ],
+      "duration": 90,
+      "angle": "案例向"
+    }
+  ],
+  "sample_script": "【0-3s】开场：3个技巧\n【3-30s】主体：核心内容展开\n【30s-】结尾：行动号召"
+}

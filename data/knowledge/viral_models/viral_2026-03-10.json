@@ -1,0 +1,20 @@
+{
+  "common_patterns": [
+    "短平快",
+    "强钩子",
+    "标签密集"
+  ],
+  "optimal_duration": "15-60秒",
+  "top_tags": [
+    "热点",
+    "教程",
+    "干货"
+  ],
+  "script_formula": "开场钩子+核心内容+行动号召",
+  "recommendations": [
+    "控制时长",
+    "用好标签",
+    "提升互动"
+  ],
+  "raw_analysis": "（未配置 LLM，返回规则分析）"
+}

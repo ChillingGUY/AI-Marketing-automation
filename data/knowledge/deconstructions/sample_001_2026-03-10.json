@@ -1,0 +1,18 @@
+{
+  "content_type": "短视频",
+  "hook": "产品开箱测评 #开箱 #测评 超值好物分享",
+  "structure": "约45秒",
+  "duration_tips": "时长45s，适合短视频平台",
+  "tag_strategy": [
+    "开箱",
+    "测评"
+  ],
+  "success_factors": [
+    "高播放",
+    "高互动",
+    "标签精准"
+  ],
+  "raw_analysis": "（未配置 LLM，返回规则分析）",
+  "video_id": "sample_001",
+  "title": "产品开箱测评 #开箱 #测评 超值好物分享"
+}

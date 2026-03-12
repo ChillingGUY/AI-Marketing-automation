@@ -1,0 +1,6 @@
+﻿video_id,item_id,title,cover_url,video_url,duration,play_count,like_count,comment_count,share_count,tags,region,country_code,publish_time,fetch_time,source
+sample_001,sample_001,产品开箱测评 #开箱 #测评 超值好物分享,nan,nan,45,125000,8500,320,0,开箱|测评,,,,2026-03-11T12:07:14.332304,csv
+sample_002,sample_002,热门BGM舞蹈挑战 #舞蹈 跟风挑战,nan,nan,30,89000,6200,180,0,舞蹈,,,,2026-03-11T12:07:14.332421,csv
+sample_003,sample_003,职场干货分享 #职场 升职技巧,nan,nan,60,56000,4100,95,0,职场,,,,2026-03-11T12:07:14.332503,csv
+sample_004,sample_004,美食教程简单易学 #美食 #教程,nan,nan,90,78000,5200,210,0,美食|教程,,,,2026-03-11T12:07:14.332574,csv
+sample_005,sample_005,搞笑日常 #搞笑 生活中的小确幸,nan,nan,25,210000,18000,890,0,搞笑,,,,2026-03-11T12:07:14.332655,csv

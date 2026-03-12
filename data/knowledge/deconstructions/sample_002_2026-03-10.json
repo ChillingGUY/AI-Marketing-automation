@@ -1,0 +1,17 @@
+{
+  "content_type": "短视频",
+  "hook": "热门BGM舞蹈挑战 #舞蹈 跟风挑战",
+  "structure": "约30秒",
+  "duration_tips": "时长30s，适合短视频平台",
+  "tag_strategy": [
+    "舞蹈"
+  ],
+  "success_factors": [
+    "高播放",
+    "高互动",
+    "标签精准"
+  ],
+  "raw_analysis": "（未配置 LLM，返回规则分析）",
+  "video_id": "sample_002",
+  "title": "热门BGM舞蹈挑战 #舞蹈 跟风挑战"
+}

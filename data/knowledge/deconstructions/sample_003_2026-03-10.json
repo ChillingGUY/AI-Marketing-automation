@@ -1,0 +1,17 @@
+{
+  "content_type": "短视频",
+  "hook": "职场干货分享 #职场 升职技巧",
+  "structure": "约60秒",
+  "duration_tips": "时长60s，适合短视频平台",
+  "tag_strategy": [
+    "职场"
+  ],
+  "success_factors": [
+    "高播放",
+    "高互动",
+    "标签精准"
+  ],
+  "raw_analysis": "（未配置 LLM，返回规则分析）",
+  "video_id": "sample_003",
+  "title": "职场干货分享 #职场 升职技巧"
+}

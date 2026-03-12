@@ -1,0 +1,41 @@
+[
+  {
+    "id": "emp_001",
+    "name": "小王",
+    "position": "创意策划",
+    "industry_experience": "2年短视频营销",
+    "content_style": "幽默搞笑，擅长玩梗",
+    "ai_assistant_type": "搞笑型创意策划",
+    "expertise": [
+      "搞笑",
+      "日常",
+      "热点"
+    ]
+  },
+  {
+    "id": "emp_002",
+    "name": "小李",
+    "position": "创意策划",
+    "industry_experience": "3年剧情类内容",
+    "content_style": "故事感强，反转惊喜",
+    "ai_assistant_type": "剧情反转型创意策划",
+    "expertise": [
+      "剧情",
+      "反转",
+      "情感"
+    ]
+  },
+  {
+    "id": "emp_003",
+    "name": "小陈",
+    "position": "创意策划",
+    "industry_experience": "4年知识类博主",
+    "content_style": "干货实用，逻辑清晰",
+    "ai_assistant_type": "干货型创意策划",
+    "expertise": [
+      "干货",
+      "教程",
+      "职场"
+    ]
+  }
+]
